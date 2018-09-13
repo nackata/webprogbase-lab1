@@ -19,7 +19,7 @@ body { margin-left: 0; }
     padding: 14px 16px;
 }
 
-.menubar a:hover {
+.menubar a:hover, .menubar a.active:hover {
     background-color: #009900;
 }
 
