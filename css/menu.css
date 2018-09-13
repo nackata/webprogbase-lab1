@@ -22,3 +22,7 @@ body { margin-left: 0; }
 .menubar a:hover {
     background-color: #009900;
 }
+
+.menubar a.active {
+    background-color: #004d00;
+}
