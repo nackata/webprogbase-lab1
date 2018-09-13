@@ -11,7 +11,7 @@ body { margin-left: 0; }
 .menubar a {
     float: left;
     display: block;
-    color: #ffffff;
+    color: white;
     text-decoration: none;
     text-align: center;
     text-shadow: 1px 1px black;
@@ -21,6 +21,9 @@ body { margin-left: 0; }
 
 .menubar a:hover, .menubar a.active:hover {
     background-color: #009900;
+    color: white;
+    text-decoration: none;
+    
 }
 
 .menubar a.active {
